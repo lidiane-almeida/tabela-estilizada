@@ -1,0 +1,27 @@
+.cabecalho-moda {
+    color: #ffff;
+    background-color: #BB86FC;
+}
+
+.cabecalho-casa {
+    color: #ffff;
+   background-color: #00C4B4;
+}
+
+.produto-moda {
+    color: #ffff;
+    background-color: #424250;
+}
+
+.produto-casa {
+    color: #ffff;
+    background-color: #424250;
+}
+
+th {
+    padding: 10px;
+}
+
+td {
+    padding: 10px;
+}
